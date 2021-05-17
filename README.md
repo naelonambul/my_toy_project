@@ -1,1 +1,1 @@
-# my_toy_project
+# My Toy Project
